@@ -18,7 +18,7 @@ Then run `bundle install` or run on terminal:
 gem install counter_utils
 ```
 
-### Motivation
+## Motivation
 
 The initial motivation is just for teaching purposes, I always wanted to create a gem, so this time I decided to create any one. In the future, I may add some real functionality to this gem, but for now thanks to the devs who are downloading this gem, it serves as an incentive to make something really useful for our RoR dev community. Thanks so much! ❤️
 
